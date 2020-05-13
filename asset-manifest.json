@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6570b00f.chunk.css",
+    "main.js": "/static/js/main.565e44be.chunk.js",
+    "main.js.map": "/static/js/main.565e44be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84578d5e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84578d5e.js.map",
+    "static/js/2.5961b937.chunk.js": "/static/js/2.5961b937.chunk.js",
+    "static/js/2.5961b937.chunk.js.map": "/static/js/2.5961b937.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e37d316c610c0b8446f6a42eec8b6c6d.js": "/precache-manifest.e37d316c610c0b8446f6a42eec8b6c6d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6570b00f.chunk.css.map": "/static/css/main.6570b00f.chunk.css.map",
+    "static/js/2.5961b937.chunk.js.LICENSE.txt": "/static/js/2.5961b937.chunk.js.LICENSE.txt",
+    "static/media/enterprise.bmp": "/static/media/enterprise.461f4fa6.bmp",
+    "static/media/project-plan.bmp": "/static/media/project-plan.6273e1e0.bmp",
+    "static/media/project.bmp": "/static/media/project.c24f8291.bmp",
+    "static/media/teamwork.bmp": "/static/media/teamwork.e8eedd5b.bmp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84578d5e.js",
+    "static/js/2.5961b937.chunk.js",
+    "static/css/main.6570b00f.chunk.css",
+    "static/js/main.565e44be.chunk.js"
+  ]
+}
